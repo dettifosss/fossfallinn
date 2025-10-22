@@ -2,8 +2,8 @@
   --accent: #9bc400;           /* Grassy Green */
   --heading: #8076a3;          /* Purple Mountains Majesty */
   --text: #ffffff;             /* pure white for max contrast */
-  --bg-gradient-start: #7c677f; /* Factory Stone Purple */
-  --bg-gradient-end: #8076a3;   /* Purple Mountains Majesty */
+  --bg-gradient-start: #4b348a; /* Factory Stone Purple */
+  --bg-gradient-end: #54207e;   /* Purple Mountains Majesty */
   --max-width: 720px;
   --gap: 1rem;
   --radius: 10px;
@@ -97,4 +97,5 @@ button,.btn{
 /* desktop padding */
 @media(min-width:800px){
   body{ padding:2rem; }
+
 }
